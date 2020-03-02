@@ -1,0 +1,344 @@
+<html>
+    <head>
+
+      <title> Apponix Project </title>
+      <link href="projectsheet.css" rel="stylesheet" type="text/css">
+      <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+     
+	 
+	</head>
+ <body>
+       <!--Header Sticky Row Start-->
+	   <header>
+	           <div class="row">
+			   <div class="col-12">
+	<div class="col-12 first-half">
+	
+			                  <div class="col-12" class="stickyclass">	       			  
+							       <a class="fa fa-volume-control-phone fa-1x" href="tel:+91 8050580888"></a>
+							       <span>
+							         +918050580888 
+							       </span>
+							       <a class="fa fa-envelope fa-1x" href="mailto:info@apponix.com"></a>
+							       <span>
+                                      info@apponix.com
+							       </span>									  
+			                   </div>					   
+     </div>
+	
+	   </header>
+	   <!--Header Sticky Row End-->
+	   
+			           <!--Header Logo Row Start -->
+							   <header>
+									   <div class="row">
+									   <div class="col-2 logo">
+									   <img src="apponix-logo.png">
+									   </div>
+							<div class="col-8 menu-bar">
+							<ul>
+								<li><b> Home </b></li>
+								  <li><b> Course </b></li>
+								    <li><b> About Us</b></li>
+								      <li><b> Corporate Training </b></li>
+								        <li><b> Trainers </b></li>
+								           <li><b> Placements </b></li>
+											  <li><b> Contact Us </b></li>
+												<li><b> Student Reviews </b></li>
+													<li><b> Blog </b></li>
+							</ul>
+							</div>
+							   </header>
+					   <!--Header Logo Row End---->
+	   
+	   
+			   <!--Highlight Image Start-->
+			   <section>
+			   <img src="apponix-team.jpg">
+			   </section>
+			   <!--Highlight Image End-->
+			   
+	   
+									   <!--H1 Headline Start-->
+									   <section class="headline">
+										 <div class="h1" align="center" style="font-size:50px;"> Most Popular Courses </div>
+										 <span align="center"> <i class="fa fa-graduation-cap" align="center"></i> </span>
+										 
+									      		 
+									   </section>
+									   <!--H1 Headline End-->
+	   
+	   
+	   
+	   <!--course Images-->
+		<section>
+			   <div class="row1">
+				<div class="col-12 para1" align="center">
+				
+						<div class="col-3">
+						   <img src="aws.png" class="imgborder">
+							<span> <h2> AWS Cloud </h2> </span>
+						</div>	
+						
+						<div class="col-3">
+						   <img src="azure.png" class="imgborder">
+							<span> <h2> Microsoft Azure Cloud </h2> </span>
+						</div>
+						
+						<div class="col-3">				
+						   <img src="devops.png" class="imgborder">
+						   <span> <h2> DevOps Training </h2> </span>
+						</div>
+						
+						<div class="col-3">
+						   <img src="python.png" class="imgborder">
+						   <span> <h2> Python Training </h2> </span>
+						</div>
+				
+				</div>
+		        </div>
+				                   
+								   
+															   <div class="row">
+															   <div class="col-12 wordings" align="center">
+																   <p class="blocktext"> Get the best AWS training in Bangalore 
+																       from Apponix, we are proud to say we 
+																	   are the top AWS cloud training provider...
+																	   <br><br>
+																	   <a href="#" class="link"> Read More </a>
+<<																	   </p>
+																   <p class="blocktext"> Microsoft Azure Cloud training course covers
+																       all topics and subjects which are required by
+																	   most of the IT & non IT companies...
+                                                                       <br><br>
+																	   <a href="#" class="link"> Read More </a>
+  																	   </p>
+																   <p class="blocktext"> Apponix DevOps Training is designed keeping 
+																       in mind the latest market trend. We are 
+																	   Bangalore based DevOps institute offering DevOps...
+																		<br><br>
+																	   <a href="#" class="link"> Read More </a>
+																	   </p>
+																   <p class="blocktext"> Training in Apponix technologies mainly focuses on 
+																       the present scope of python and real time requirements
+																	   which will introduce...
+																	   <br><br>
+																	   <a href="#" class="link"> Read More </a>
+											
+																	   </p>
+															   </div>
+															   </div>
+															   
+															   
+															   
+															   
+		</section>													   
+		 
+
+      <section>		 
+	   <div class="row2">
+				<div class="col-12 para2" align="center">
+				
+				<div class="col-3">
+				   <img src="datascience.png" class="imgborder"> 
+				   <span><h2>Data Science With <br>Python</h2></span>
+				</div> 
+
+				<div class="col-3">
+				   <img src="web-design.png" class="imgborder">
+				     <span><h2>Web Design and <br>Development</h2></span>
+				</div>
+				
+                <div class="col-3">
+				   <img src="vmware.png" class="imgborder">
+				     <span><h2>VMWare Certification<br> Training</h2></span>
+				</div> 
+				
+                <div class="col-3">
+				   <img src="powerShell.png" class="imgborder">
+				     <span><h2>Powershell Scripting<br> Training</h2></span>
+				</div> 
+
+				</div>
+		        </div>														   
+								  
+								  
+								  
+															
+															   <div class="row">
+															   <div class="col-12 wordings" align="center">
+																   <p class="blocktext"> Data Scientist Training at Apponix offers the best and comprehensive methods to 
+																                         learn the analytics in Bangalore. This training ...
+																	   <br><br>
+																	   <a href="#" class="link"> Read More </a>
+<<																	   </p>
+																   <p class="blocktext"> Web development has always been an integral and central part of the internet. 
+																                         Since it has overtaken all other business models and has...
+                                                                       <br><br>
+																	   <a href="#" class="link"> Read More </a>
+  																	   </p>
+																   <p class="blocktext"> Get the best VMware training in Bangalore from Apponix, 
+																                         we are proud to say we are the top VMwaretraining provider ...
+																		<br><br>
+																	   <a href="#" class="link"> Read More </a>
+																	   </p>
+																   <p class="blocktext"> Get the best PowerShell training in Bangalore from Apponix, 
+																                         we are proud to say we are the top ...
+																	   <br><br>
+																	   <a href="#" class="link"> Read More </a>
+											
+																	   </p>
+															   </div>
+															   </div>
+															   
+
+									
+	
+
+
+     <div class="row3">
+				<div class="col-12 para3" align="center">
+				
+				<div class="col-3">
+				   <img src="sccm.png" class="imgborder"> 
+				   <span><h2>Microsoft SCCM 2012</h2></span>
+				</div> 
+
+				<div class="col-3">
+				   <img src="redhat.png" class="imgborder">
+				     <span><h2>Red Hat Linux</h2></span>
+				</div>
+				
+                <div class="col-3">
+				   <img src="mcsa.png" class="imgborder">
+				     <span><h2>MCSA Training</h2></span>
+				</div> 
+				
+                <div class="col-3">
+				   <img src="digital-marketing.png" class="imgborder">
+				     <span><h2>Digital Marketing</h2></span>
+				</div> 
+
+				</div>
+		        </div>	
+							      
+
+
+<div class="row">
+															   <div class="col-12 wordings" align="center">
+																   <p class="blocktext"> Apponix has average 4.9 ratings for Microsoft SCCM Training till date. 
+																                         We are proud to say we have delivered SCCM training to 1000+ IT...
+																	   <a href="#" class="link"> Read More </a>
+<<																	   </p>
+																   <p class="blocktext"> Red Hat Linux is a leading server operating system, 
+																                         nearly 70% of the servers in the world run Linux operating system...
+                                                                       <br><br>
+																	   <a href="#" class="link"> Read More </a>
+  																	   </p>
+																   <p class="blocktext"> We provide excellent training experience to our students in windows courses, 
+																                         our windows server admin...
+																		<br><br>
+																	   <a href="#" class="link"> Read More </a>
+																	   </p>
+																   <p class="blocktext"> Training in Apponix technologies mainly focuses on the present 
+																                         scope of Digital Marketing and real time requirements which will introduce
+																	   <br><br>
+																	   <a href="#" class="link"> Read More </a>
+											
+																	   </p>
+															   </div>
+															   </div>								  
+								                         
+	   </section>
+	  <!--course images end-->
+	  
+	  
+	  <!--New Banner Image Start-->
+		<div class="row welcome">
+		   <div class="col-12">
+			 <div class="col-6 part1">
+			 
+				   
+				   <img src=" welcome.png" alt="welcome to apponix" width="500px" height="560px"> 
+				   </div>
+						
+				   <div class="col-6 part2" align="right">
+				   <h1 style="font-size:50px;"align="center">
+				   <span style="color:orange;"> Welcome To</span>
+				   <span style="color:darkblue;"> Apponix </span>
+				   </h1>
+				   <p> <strong>Apponix Technologies Private Limited is a Bangalore based Training & Recruitment company
+				   delivering classroom and online trainings in India, USA and UK.</strong>
+				   </p>
+				   <p> Providing high quality training at affordable fees is our core value. 
+				   We offer classroom and online 
+				   training on niche technologies which are in high demand. All
+				   our trainers are IT professionals with rich experience.</p>
+				   <p>  Excellent Trainers and Fabulous Lab this is what you can expect from us.</p>
+				   <p>  Free training materials, Free Career consulting, Career guidance by experienced
+				   IT professionals, Pleasant and modern training rooms.</p>
+				   <div class="button">
+				   <a href="#"> Read More</a>
+				   </div>
+			       </div>
+		   </div>
+	    </div>
+	  <!--New Banner Image End-->
+	  
+	  
+	  <!--3 Images Headline Section-->
+	 
+	                             <section class="another-headline">
+								   <div class="row headline">
+								   <div class="col-12">
+								   <h1  class="new-headline" style="font-size:50px;"align="center">What We Offer </h1>
+								   <hr class="fa fa-graduation-cap"></hr>
+								   
+								   
+									</div>	 
+									</div>	 
+									    
+										
+										
+										<div class="col-4 main" align="center">
+										<img src="classroom.jpg" class="classroom "  width="300">
+										<h3 class="c1" align="center">Classroom Training</h3>
+										</div>
+										
+										<div class="col-4 main"align="center" >
+											<img src="online.jpg" class="online"  width="300">
+											<h3  class="c2" align="center">Online Training</h3>
+											
+										</div>
+										<div class="col-4 main"align="center" >
+											 <img src="corporate.jpg" class="corporate" " width="300">
+											<h3  class="c3" align="center">Corporate Training</h3>
+											
+										</div>
+				
+				
+								 </section>
+								 
+	  
+	  <!--3 Images Headline Section End-->
+	  
+	  
+	  <!--big Banner-->
+	  
+	  <section class="big-banner">
+	  <img src=""
+	  </section>
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	
+	  
+	   
+ </body>
+
+</html>
