@@ -1,0 +1,258 @@
+.body{
+    background-color: black;
+}
+
+
+/*Navigation Bar Section Header*/
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+html{
+	font-size:11px;
+	
+	font-family: 'Special Elite', cursive;
+	
+}
+
+.headingfont{
+	font-family: 'Cormorant Garamond', serif;
+}
+body{
+	overflow-x:hidden;
+}
+
+
+a{
+	text-decoration:none;
+	color:#eee;
+}
+
+header{
+	width:100%;
+	height:100vh;
+	background:linear-gradient(to bottom, rgba(0,0,0,.8), rgba(0,0,0,.5)), url("slide1.jpg") center no-repeat;
+	background-size:cover;
+
+}
+
+.container{
+	max-width:120rem;
+	width:90%;
+	margin:0 auto;
+}
+
+nav{
+	padding-top:5rem;
+	display:flex;
+	Justify-content:space-between;
+	align-items:center;
+	text-transform:uppercase;
+	font-size:1.6rem;
+	
+	
+}
+
+.brand{
+	font-size:3.3rem;
+	font-weight:100;
+	
+	font-family:'Lobster', cursive;
+	transform:translateX(-100rem);
+    animation:slideIn .3s forwards;
+}
+
+.brand span{
+	color:orange;
+	
+	font-family:'Lobster', cursive;
+	
+}
+
+nav ul{
+	display:flex;
+}
+nav ul li{
+	list-style:none;
+	transform:translateX(100rem);
+  animation:slideIn .3s forwards;
+  
+}
+
+nav ul li a{
+	padding:10rem;
+	margin:0 3rem;
+	position:relative;
+	letter-spacing:3px;
+}
+
+
+nav ul li a::before,
+nav ul li a::after{
+	content:'';
+	position:absolute;
+	width:100%;
+	height:2px;
+	background-color:none;
+	left:0;
+	transform:scaleX(0);
+	transition:all .3s;
+}
+
+nav ul li a::before{
+	top:0;
+	transform-origin:left;
+}
+
+nav ul li a::after{
+	bottom:0;
+	transform-origin:right;
+}
+
+nav ul li a:hover::before,
+nav ul li a:hover::after{
+	transform:scaleX(1);
+}
+
+@keyframes slideIn{
+	from{
+		
+	}
+	to{
+		transform:translateX(0);
+	}
+}
+/*Navigation Bar Section End */
+
+
+
+
+ /* Track Container Image Big Head */
+.bg-image {
+    /* Full height */
+    height: 00%;
+    
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+    
+  /* Track Container Image Text */
+  .bg-text {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.3); /* Black w/opacity/see-through */
+    color:orange ;
+    font-weight: bold;
+    font-size: 110px;
+    border: 5px #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 1000px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+  }
+
+
+  /*Songs List Start*/
+
+  /*.trackbigimage{
+      background-image: url(slide.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size:cover;*/
+  }
+
+
+  .songsimage1{
+      margin-top: 20px;  
+  }
+  .songsimage2{
+    margin-top: 20px;  
+}
+.songsimage3{
+  margin-top: 20px;  
+}
+.songsimage4{
+  margin-top: 20px;  
+}
+.songsimage5{
+  margin-top: 20px;  
+}
+.songsimage6{
+  margin-top: 40px;
+}
+
+  .songbar{
+      width: 800px;
+      height: 50px;
+  }
+
+  .latest{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 30px;
+    padding-top: 20px;
+    color: brown;
+  }
+
+  .button{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 15px;
+    padding: 5px;
+    margin-top:10px;
+    background-color: orangered;
+    border-radius: 20px;
+    width: 150px;
+  }
+
+  /*Youtube Video*/
+  .songbar1{
+    width: 800px;
+    height: 400px;
+}
+
+  
+  /*Insta Videos*/
+  .insta{
+    justify-content: space-evenly;
+    margin: auto;
+    padding: 40px;
+  }
+
+  .instavideos{
+    font-size: 30px;
+    color: blanchedalmond;
+    font-family: 'Cinzel Decorative', cursive;
+    margin-top: 30px;
+    text-shadow: 2px 3px orangered;
+  }
+  /*Songs List End*/
+
+
+
+/*Track Footer Start */
+  
+.footerheadline{
+	font-size: 30px;
+	font-family: 'Cormorant Garamond', serif;
+	color:rgba(255, 255, 255, 0.897);
+}
+
+.homesize{
+	font-size: 25px;
+}
+
+.paragraph{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+}
+
+/*Track Footer End */
